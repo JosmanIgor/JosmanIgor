@@ -9,7 +9,7 @@
 
 ##
 
-**Aqui eu vou colocar meus projetos tanto frontend quanto backend, enquanto eu continuo a desenvolver minha habilidades de desenvolvedor**
+**Aqui eu vou colocar meus projetos tanto frontend quanto backend, enquanto eu continuo a desenvolver minhas habilidades de desenvolvedor**
 
 Estarei me graduando em Engenharia de Software (dec 2027)
 
