@@ -13,6 +13,8 @@
 
 Estarei me graduando em Engenharia de Software (dec 2027)
 
+Linkedin: www.linkedin.com/in/josmanigor
+
 ##
 
 <h3 align="left">🛠 Linguagens</h3>
